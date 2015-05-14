@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">GeoNamesBrowser</string>
+    <string name="geonamesDump">http://download.geonames.org/export/dump/</string>
+    <string name="crash_message"></string>
+    <string name="drawer_title">Navigation</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
